@@ -11,8 +11,8 @@ Mô tả yêu cầu:
 -	Hệ thống đưa ra câu trả lời A 
 
 ## 1)	Yêu cầu về phương pháp:
-Sử dụng phương pháp sinh câu trả lời.
-Sử dụng mô hình LSTM
+Sử dụng phương pháp sinh câu trả lời.<br>
+Sử dụng mô hình LSTM.<br>
 Khuyến khích sử dụng các mô hình nâng cao:
 -	CNN + LSTM
 -	BiLSTM
